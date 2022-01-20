@@ -372,6 +372,13 @@ right: 0;
   box-shadow: 0 0 15px #000000;
 }
 
+.fun-facts {
+  line-height: 2em;
+  list-style-type: circle;
+  display: inline;
+  
+}
+
 @media (min-width: 600px){
   .about-me{
   display: grid;
